@@ -1,6 +1,7 @@
 import React from 'react'
 import './services.css'
 import {BsCheck2} from 'react-icons/bs'
+import {BsCheck} from 'react-icons/bs'
 const Services = () => {
   return (
     <section id='services'>
@@ -16,24 +17,24 @@ const Services = () => {
           </div>
           <ul className='service__list'>
             <li>
-              <BsCheck2 className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus ut consectetur iure sequi pariatur cum saepe alias ipsum, autem maiores ratione modi sed esse voluptatum illum cumque sit rerum voluptate!</p>
+              <BsCheck className='service__list-icon'/>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
             </li>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus ut consectetur iure sequi pariatur cum saepe alias ipsum, autem maiores ratione modi sed esse voluptatum illum cumque sit rerum voluptate!</p>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit</p>
             </li>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus ut consectetur iure sequi pariatur cum saepe alias ipsum, autem maiores ratione modi sed esse voluptatum illum cumque sit rerum voluptate!</p>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit</p>
             </li>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus ut consectetur iure sequi pariatur cum saepe alias ipsum, autem maiores ratione modi sed esse voluptatum illum cumque sit rerum voluptate!</p>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit</p>
             </li>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus ut consectetur iure sequi pariatur cum saepe alias ipsum, autem maiores ratione modi sed esse voluptatum illum cumque sit rerum voluptate!</p>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit</p>
             </li>
             
 
@@ -51,23 +52,23 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus ut consectetur iure sequi pariatur cum saepe alias ipsum, autem maiores ratione modi sed esse voluptatum illum cumque sit rerum voluptate!</p>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit</p>
             </li>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus ut consectetur iure sequi pariatur cum saepe alias ipsum, autem maiores ratione modi sed esse voluptatum illum cumque sit rerum voluptate!</p>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit</p>
             </li>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus ut consectetur iure sequi pariatur cum saepe alias ipsum, autem maiores ratione modi sed esse voluptatum illum cumque sit rerum voluptate!</p>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit</p>
             </li>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus ut consectetur iure sequi pariatur cum saepe alias ipsum, autem maiores ratione modi sed esse voluptatum illum cumque sit rerum voluptate!</p>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit</p>
             </li>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus ut consectetur iure sequi pariatur cum saepe alias ipsum, autem maiores ratione modi sed esse voluptatum illum cumque sit rerum voluptate!</p>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit</p>
             </li>
             
 
@@ -84,23 +85,23 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus ut consectetur iure sequi pariatur cum saepe alias ipsum, autem maiores ratione modi sed esse voluptatum illum cumque sit rerum voluptate!</p>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit</p>
             </li>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus ut consectetur iure sequi pariatur cum saepe alias ipsum, autem maiores ratione modi sed esse voluptatum illum cumque sit rerum voluptate!</p>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit</p>
             </li>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus ut consectetur iure sequi pariatur cum saepe alias ipsum, autem maiores ratione modi sed esse voluptatum illum cumque sit rerum voluptate!</p>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit</p>
             </li>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus ut consectetur iure sequi pariatur cum saepe alias ipsum, autem maiores ratione modi sed esse voluptatum illum cumque sit rerum voluptate!</p>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit</p>
             </li>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus ut consectetur iure sequi pariatur cum saepe alias ipsum, autem maiores ratione modi sed esse voluptatum illum cumque sit rerum voluptate!</p>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit</p>
             </li>
             
 
