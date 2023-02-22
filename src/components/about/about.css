@@ -81,6 +81,7 @@
     .about__me{
         width: 65%;
         margin: 0 auto 3rem;
+        color: whitesmokE;
     }
     .about__cards{
         grid-template-columns: 1fr 1fr;
