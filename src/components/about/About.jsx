@@ -42,7 +42,9 @@ const About = () => {
           
           </div>
 
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et culpa sit, eaque perferendis officia ut eius repellendus necessitatibus. Enim unde optio architecto, eum reprehenderit esse fuga totam labore eaque? Voluptatibus?</p>
+          <p>I'm Amanuel Tefera, a front-end developer with over 2 years of experience in building beautiful and functional websites. I specialize in WordPress website design, and I have worked with a variety of clients to create stunning and user-friendly websites that meet their unique needs.
+
+On this website, you'll find a collection of my recent projects, as well as information about my skills and experience. I take pride in my ability to create websites that are not only aesthetically pleasing but also easy to navigate and use. I believe that a website should be an extension of your brand, and that it should help you connect with your audience in a meaningful way.</p>
         
           <a href="#contact" className='btn btn-primary'> Let's Talk</a>
 

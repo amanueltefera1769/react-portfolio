@@ -29,12 +29,12 @@ const Testimonials = () => {
       
         <SwiperSlide className='testimonial' >
           <div className="client__avatar">
-            <img src={AVTR1} alt="Avatar one" />
+            <img alt="Avatar one" />
             
           </div>
-          <h5 className='client__name'> Tefera Adefris </h5>
+          <h5 className='client__name'> Mr. Tefera Adefris </h5>
             <small className='clinet__review'>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui, esse aspernatur debitis, quaerat consequatur autem harum, corrupti reiciendis voluptatibus odit nemo distinctio perferendis ipsum in. Iusto quos modi autem impedit.
+            I was blown away by the quality of work that Mr. Amanuel Tefera produced. They were able to take my vision and turn it into a beautiful and functional website. I highly recommend them!
             </small>
         </SwiperSlide>
 
@@ -43,34 +43,22 @@ const Testimonials = () => {
             <img src={AVTR2} alt="Avatar one" />
             
           </div>
-          <h5 className='client__name'> Tefera Adefris </h5>
+          <h5 className='client__name'> Mr. Filimon Zelul </h5>
             <small className='clinet__review'>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui, esse aspernatur debitis, quaerat consequatur autem harum, corrupti reiciendis voluptatibus odit nemo distinctio perferendis ipsum in. Iusto quos modi autem impedit.
+            Working with Mr. Amanuel Tefera was a fantastic experience. They were able to deliver a website that exceeded my expectations and they were great to work with throughout the entire process.
             </small>
         </SwiperSlide >
 
         <SwiperSlide className='testimonial'>
           <div className="client__avatar">
-            <img src={AVTR3} alt="Avatar one" />
+            <img  alt="Avatar one" />
             
           </div>
-          <h5 className='client__name'> Tefera Adefris </h5>
+          <h5 className='client__name'> MS. Rahel </h5>
             <small className='clinet__review'>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui, esse aspernatur debitis, quaerat consequatur autem harum, corrupti reiciendis voluptatibus odit nemo distinctio perferendis ipsum in. Iusto quos modi autem impedit.
+            Thanks to Mr. Amanuel Tefera, my website is now a true reflection of my brand. They were able to take my ideas and turn them into a website that is both beautiful and functional. I couldn't be happier with the results!
             </small>
         </SwiperSlide >
-
-        <SwiperSlide className='testimonial'>
-          <div className="client__avatar">
-            <img src={AVTR4} alt="Avatar one" />
-            
-          </div>
-          <h5 className='client__name'> Tefera Adefris </h5>
-            <small className='clinet__review'>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui, esse aspernatur debitis, quaerat consequatur autem harum, corrupti reiciendis voluptatibus odit nemo distinctio perferendis ipsum in. Iusto quos modi autem impedit.
-            </small>
-        </SwiperSlide >
-
         
       </Swiper>
 
