@@ -8,6 +8,73 @@ header {
     height: 100%;
     /* position: relative; */
 }
+.dark-mode1{
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    margin-left: 1000px;
+    margin-bottom: 200px;
+}
+.dark-mode1 label {
+    position: relative;
+    width: 90px;
+    height: 48px;
+    display: block;
+    background: url('../../assets/daytime.jfif');
+    background-size: cover;
+    background-position: center;
+    border: 10px solid rgba(198, 247, 253, 0.3);
+    border-radius: 100px;
+    cursor: pointer;
+    transition: 1s ease;
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+  }
+  .dark-mode1 label::after {
+    content: '';
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    background: #f2f2f2;
+    border-radius: 50%;
+    top: 5px;
+    left: 3px;
+    transition: 0.8s ease;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  .dark-model1 label::before {
+    content: '';
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    border: 10px solid rgba(198, 247, 253, 0.3);
+    border-radius: 50%;
+    top: -5px;
+    left: 13px;
+    transition: 0.8s ease;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.18);
+  }
+  input:checked ~ label::after {
+    left: 70px;
+    transform: translateX(-100%);
+    background: #777ba5;
+  }
+  input:checked ~ label::before {
+    left: 40px;
+    border: 10px solid rgba(90, 79, 136, 0.2);
+    transform: translateX(-100%);
+  }
+  input:checked ~ label {
+    background: url('../../assets/night.jfif');
+    background-size: cover;
+    background-position: center;
+    border: 10px solid rgba(90, 79, 136, 0.2);
+  }
+  input:checked ~ .background {
+    background: #0e377c;
+  }
+  input {
+    display: none;
+  }
 /*===========================CTN====================*/
 .ctn {
     margin-top: 2.5rem;
